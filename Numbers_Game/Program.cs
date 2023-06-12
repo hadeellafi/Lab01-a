@@ -7,6 +7,8 @@ namespace Numbers_Game
         static void Main(string[] args)
         {
             StartSequence();
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
         }
 
         static void StartSequence()
