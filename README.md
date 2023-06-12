@@ -13,25 +13,60 @@ The purpose of this program is to demonstrate exception handling and basic mathe
 ## Example Output
 
 Welcome to my game! Let's do some math! Please enter a number greater than zero
+
+
 5
+
+
 Please enter number 1 of 5:
+
+
 2
+
+
 Please enter number 2 of 5:
+
+
 4
 Please enter number 3 of 5:
+
+
 6
+
+
 Please enter number 4 of 5:
+
+
 8
+
+
 Please enter number 5 of 5:
+
+
 10
 
+
 Your array is size: 5
+
+
 The numbers in the array are: 2, 4, 6, 8, 10
+
+
 The sum of the array is: 30
+
+
 The product of the sum and the randomly selected number is: 90
+
+
 Please enter a number to divide your product 90 by:
+
+
 3
+
+
 The quotient of the product and the entered number is: 30
+
+
 
 Program is complete.
 
