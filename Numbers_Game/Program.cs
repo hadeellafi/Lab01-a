@@ -36,8 +36,8 @@ namespace Numbers_Game
                     }
                 }
                 Console.WriteLine($"\nThe sum of the array is: {sum}");
-                Console.WriteLine($"The product of the sum and the randomly selected number is: {product}");
-                Console.WriteLine($"The quotient of the product and the entered number is: {quotient}");
+                Console.WriteLine($"{sum}*{product/sum}= {product}");
+                Console.WriteLine($"{product}/{product/quotient}: {quotient}");
             }
             catch (FormatException ex)
             {
